@@ -20,7 +20,7 @@ export default function App() {
 
       <div>
         <TopSellers />
-        <PopularBlogs />
+        <PopularBlogs 
       </div>
       </div>
     </Router>
